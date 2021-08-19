@@ -15,7 +15,7 @@ body {
   .header {
     min-height: 80vh;
     width: 100%;
-    background-image: linear-gradient(rgba(216, 136, 105, 0.3), rgba(169, 223, 84, 0.4)),url(Image/mobile3.jpg.jpg);
+    background-image: linear-gradient(rgba(216, 136, 105, 0.3), rgba(169, 223, 84, 0.4)),url(mobile3.jpg.jpg);
     background-position: center;
     background-size: cover;
     position: relative; 
