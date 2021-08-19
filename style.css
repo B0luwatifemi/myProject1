@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    width: 100%;
+    margin: auto;
+    background-color: rgb(165, 103, 103);
+    opacity: 30%;
+    
+}
+  .header {
+    min-height: 80vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(216, 136, 105, 0.3), rgba(169, 223, 84, 0.4)),url(Image/mobile3.jpg.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative; 
+}
+nav {
+    display: flex;
+    justify-items: center;
+}
+  .logo, .Nav-links {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    color: rgb(252, 246, 246);
+    
+}
+  .logo{
+    padding: 0px 20px 0px 15px;
+    size: 2px;
+}
+
+  .Nav-links {
+    justify-content: space-around;
+    list-style: none;
+    
+      
+}
+  .Nav-link {
+       
+    text-decoration: none;
+    color: whitesmoke;
+}
+  .Text {
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 115%; 
+}
+
+  .Main-Text {
+    color: whitesmoke;
+    padding: 120px 0px 20px 20px;
+}
+
+    
+  .info {
+    border: none;
+    color: whitesmoke;
+    padding: 5px 10px;
+    text-align: center;
+    margin-left: 45%;
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+    background: rgb(165, 103, 103);
+    border-radius: 22px;
+}
+hr {
+    border: 1;
+    border-top: 2px solid rgb(255, 255, 255);
+  }
+  .Find {
+      size: 2px;
+      width: 8%;
+      padding: 30px 0px 0px 0px;
+      border-color: rgb(165, 103, 103);
+  }
+  .Text h1 {
+      font-weight: 6000;
+      font-size: 200%;
+      width: 80%;
+      margin: auto;
+  }
+
+  .Text p {
+      font-weight: 500;
+      font-size: 100%;
+      width: 80%;
+      margin: auto;
+}
+h3 {
+    padding: 0px 0px 20px 30px;
+    width: 20%;
+    margin: auto;
+    color: whitesmoke;
+}
+
+.ft {
+    padding: 20px 0px 0px 20px;
+    size: 1px;
+    width: 3%;
+}
+  .foot{
+    width: 70%;
+    margin: auto;
+    color: whitesmoke;
+    text-align: center;
+    
+    
+    
+    
+}
